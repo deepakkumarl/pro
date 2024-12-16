@@ -1,0 +1,10 @@
+
+
+.class li{
+    background-color: aqua;
+    width: 400px;
+    list-style: none;
+    height: 330px;
+    border-radius: 20px;
+
+}
